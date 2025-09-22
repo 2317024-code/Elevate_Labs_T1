@@ -54,7 +54,7 @@ Steps Performed:
 
 8. Save Cleaned Dataset
            
-        Saved the cleaned file as customer_personality_cleaned.csv.
+        Saved the cleaned file as Customer_Personality_Analysis.csv.
         
         Used UTF-8 encoding to ensure compatibility with Excel and other tools.
 
